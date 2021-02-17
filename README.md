@@ -2,7 +2,7 @@
 Sharing source code and tutorial at [rojoinferno.com](http://www.rojoinferno.com/)
 
 - 🌱 Currently learning Go & Javascript
-- 🔭 Developed [web apps](https://trakteer.id/rojokundo/showcase) in my freetime
+- 🔭 Developed [web apps](https://trakteer.id/rojokundo/showcase) in my free time
 
 
 ### :dash:	:dash: :dash: :dash:
