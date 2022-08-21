@@ -1,7 +1,7 @@
 ### Hi 👋
 Sharing source code and tutorial at [rojoinferno.com](http://www.rojoinferno.com/)
 
-- 🌱 Currently learning React
+- 🌱 Currently learning Front End Tech Stack (especially react)
 - 🔭 Developed [web apps](https://trakteer.id/rojokundo/showcase) in my free time
 
 
